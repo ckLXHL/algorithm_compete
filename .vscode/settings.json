@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.hs": "haskell",
+        "*.ipynb": "python",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "limits": "cpp"
+    }
+}
