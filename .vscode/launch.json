@@ -7,7 +7,7 @@
         {
             "setupCommands": [
                 {
-                    "text": "settings set target.input-path ${workspaceFolder}/input.txt"
+                    "text": "settings set target.input-path ${workspaceFolder}/input_10047.txt"
                 }
             ],
             "preLaunchTask": "clang build active file",
